@@ -1,4 +1,4 @@
-# js-adv-map-challenge
+# js-adv-reduce-challenge
 
 <h2>English Version</h2>
 <br>
