@@ -1,21 +1,72 @@
-# js-adv-reduce-challenge
+<h1 align="center">
+  JavaScript Advanced - Reduce Challenge
+</h1>
 
-<h2>English Version</h2>
-<br>
-<br>
-- Project created to solve the challenge proposed in the Programmer BR course - Advanced JS Module.
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-services-used">Services Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-- Its objective is to create, using JS, the same result obtained with the use of HOF - Reduce, but without using Reduce.
-<br>
-<br>
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+</p>
+
 <br>
 
-<h2>Versão em Português</h2>
-<br>
-<br>
-- Projeto criado para resolver o desafio proposto no curso Programador BR - Módulo JS Avançado.
+## 💻 Project
 
-- O objetivo é criar, através do uso do JS, o mesmo resultado obtido com o uso da HOF - Reduce, mas sem utiliza-lá. 
+Project created to solve the challenge proposed on the "Curso Programador BR" - Advanced JS Module. The objective was to create through the use of JS the same result obtained with the use of HOF - Reduce, but without using the Reduce.
+
+<br><br>
+
+## 🚀 Technologies
+
+This project was developed using these techs:
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 <br>
+
+## 👨‍🔧 Services Used
+
+- GitHub
+
 <br>
+
+## 🎮 Getting Started
+
+If you want run this code, you can start cloning the repository using HTTP or SSH key.
+
+- Open your gitBash (git terminal)
+- Type `git clone`
+- Insert the HTTP or SSH key (on windows, shift + insert to paste on gitBash)
+- You can find this HTTP or SSH Key by clicking on `Code` on the top right in this repository
+![image](https://user-images.githubusercontent.com/79553681/127787926-2a88ee3b-b654-4eee-a183-73b25b167030.png)
+
+- Once cloned you can open the project in your IDE and browser.
+
+
 <br>
+
+## 🕵 Features
+
+The main features of the application are:
+ - Bring the same result of HOF - REDUCE without using it
+
+<br>
+
+ > In case of sensitive bugs like security vulnerabilities, please contact
+ > <a href = "mailto:deywerson.pereira@gmail.com">deywerson.pereira@gmail.com</a> directly instead of using issue tracker. We value your effort
+ > to improve the security and privacy of this project!
+ <br>
+ 
+---
+  
+
+      
+Please follow on github and join us! Thanks for visiting me and good coding!
+
+Made with ♥ by <a href="https://github.com/deywersonp">Deywerson Pereira</a>
